@@ -1,0 +1,18 @@
+********Welcome to the Hobbit Family Tree by Napon Krassner (Jett)********
+
+======== Printing Relationship for Samwise Gamgee and Gaffer Gamgee: ========
+Gaffer Gamgee is a parent of Samwise Gamgee
+
+======== Printing Relationship for Samwise Gamgee and Elanor Gamgee: ========
+Samwise Gamgee is a parent of Elanor Gamgee
+
+======== Printing Relationship for Gaffer Gamgee and Elanor Gamgee: ========
+Elanor Gamgee is not the parent of Gaffer Gamgee and vice versa
+
+======== Printing Family Stick for Gaffer Gamgee: ========
+                           Gaffer Gamgee(95)
+                                  |
+                          Samwise Gamgee(41)
+                                  |
+                           Elanor Gamgee(0)
+Press any key to continue . . .
